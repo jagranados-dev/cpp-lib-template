@@ -1,2 +1,2 @@
-# cpp-project-seed
-Simple C++ project template with CMake and CLang format support.
+# C++ Project Template
+A C++ project template with CMake and CLang format support.
